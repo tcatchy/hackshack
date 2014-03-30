@@ -11,7 +11,7 @@ The website NO LONGER EXISTS, but I can give you an overview of what I did.
 2. Enter student number, upon which your full name, room number, student id and library number were returned.
 3. Book meal and go
 
-Using the bash script 'hack' and having an educated guess with my student number, I ran the script and low and behold, I managed to get ten results (which I will not show for privacy reasons, OBVIOUSLY)
+Using the bash script 'hack' and having an educated guess with my student number, I ran the script and if it returned nothing, no big deal, move on, otherwise it would return Student x with student number y. Low and behold, I managed to get ten results (which I will not show for privacy reasons, OBVIOUSLY) from a very small range of 10000 student numbers, who knows how many more I could have gotten...
 
 The new site, luckily hidden behind the university security: https://mealstogo.chestnutresidence.utoronto.ca/
 
